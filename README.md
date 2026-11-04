@@ -17,10 +17,10 @@
 ```java
 public class NitiJain {
     String role       = "Aspiring Software Developer";
-    String education  = "B.E. Computer Engineering (Cyber Security), REPLACE_ME COLLEGE, REPLACE_ME CITY — REPLACE_ME YEAR";
-    String[] focus    = {"Backend engineering", "Full-stack web apps", "DevOps & Cloud"};
+    String education  = "B.E. Computer Engineering (Cyber Security), Thakur College of Engineering and Technology, Mumbai-2027";
+    String[] focus    = {"Backend engineering", "Full-stack web apps", "Artificial Intelligence", "LLM"};
     String learning   = "Docker, GitHub Actions CI/CD, AWS";
-    String experience = "REPLACE_ME INTERNSHIP / EXPERIENCE";
+    String experience = "Full Stack Developer in ElevanceSkills Technology Private Ltd";
     boolean openToWork = true;
 }
 ```
