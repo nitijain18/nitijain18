@@ -1,54 +1,92 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=190&section=header&text=Niti%20Jain&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Software%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20React&descSize=18&descAlignY=58&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=190&section=header&text=Niti%20Jain&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=AI%2FML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20Python&descSize=18&descAlignY=58&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=640&lines=Final-year+Computer+Engineering+(Cyber+Security)+student;Backend+with+Java+%2B+Spring+Boot+%2B+PostgreSQL;Frontend+with+React+%2B+Tailwind+CSS;Solving+DSA+problems+every+day;Currently+building%3A+Expense+Tracker+%E2%86%92+Docker+%E2%86%92+AWS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Final-year+Computer+Engineering+(Cyber+Security)+student;AI+%2F+ML+%2B+LLMs+%2B+RAG+%2B+Agentic+workflows;Full+Stack+with+Java+%2B+Spring+Boot+%2B+React;Deep+learning+with+TensorFlow+%26+PyTorch;Currently+building%3A+SecureSpace+%E2%80%94+Autonomous+AI+Security+Analyst)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitijian18)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:REPLACE_ME@example.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jainniti1807@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=nitijain18&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## About me
+## 👋 About me
+
+I'm a final-year Computer Engineering (Cyber Security) student at **Thakur College of Engineering and Technology, Mumbai** (CGPA 9.15, graduating 2027). I build at the intersection of **AI/ML** and **full-stack development**: deep learning models, LLM apps, RAG pipelines and agentic workflows on the AI side, and production-style web apps with Java, Spring Boot, React and PostgreSQL on the dev side.
 
 ```java
 public class NitiJain {
-    String role       = "Aspiring Software Developer";
-    String education  = "B.E. Computer Engineering (Cyber Security), Thakur College of Engineering and Technology, Mumbai-2027";
-    String[] focus    = {"Backend engineering", "Full-stack web apps", "Artificial Intelligence", "LLM"};
-    String learning   = "Docker, GitHub Actions CI/CD, AWS";
-    String experience = "Full Stack Developer in ElevanceSkills Technology Private Ltd";
+    String role       = "AI/ML Engineer & Full Stack Developer";
+    String education  = "B.E. Computer Engineering (Cyber Security), TCET Mumbai, 2027";
+    String[] ai       = {"Deep Learning", "LLMs", "RAG", "Agentic AI", "Computer Vision", "NLP"};
+    String[] dev      = {"Java + Spring Boot", "React / Angular", "REST APIs", "PostgreSQL"};
+    String learning   = "Reinforcement Learning, AWS SageMaker & Bedrock, Docker, CI/CD";
+    String experience = "Full Stack Developer Intern @ Elevance Skills Technology; Freelance AI Developer";
     boolean openToWork = true;
 }
 ```
 
-## Tech stack
+## 🛠️ Tech stack
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=java,spring,js,react,tailwind,nodejs,express,postgres,mysql,mongodb&perline=10)](https://skillicons.dev)
+**Languages & Backend**
 
-[![Tools](https://skillicons.dev/icons?i=git,github,linux,maven,postman,vscode,idea,cpp,python&perline=10)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=python,java,cpp,c,spring,fastapi,nodejs,express&perline=8)](https://skillicons.dev)
 
-**Currently learning**
+**AI / ML**
 
-[![Learning](https://skillicons.dev/icons?i=docker,githubactions,aws)](https://skillicons.dev)
+[![AI](https://skillicons.dev/icons?i=tensorflow,keras,pytorch,sklearn,pandas,numpy,opencv&perline=7)](https://skillicons.dev)
+
+**Frontend & Databases**
+
+[![Frontend](https://skillicons.dev/icons?i=react,angular,tailwind,postgres,mysql,mongodb&perline=6)](https://skillicons.dev)
+
+**Cloud & Tools**
+
+[![Tools](https://skillicons.dev/icons?i=aws,docker,git,github,linux,maven,postman,vscode&perline=8)](https://skillicons.dev)
 
 </div>
 
-## Featured projects
+**Generative AI:** LLMs · LangChain · RAG · Agentic AI · Prompt Engineering · Hugging Face · Embeddings
+**Currently exploring:** AWS SageMaker, AWS Bedrock, Reinforcement Learning, GitHub Actions CI/CD
+
+## 💼 Experience
+
+- **Freelance AI Developer** (Present, Remote): Built an AI chatbot for a bakery business that automates customer queries, FAQs and lead collection, and is building its full-stack website (React, Spring Boot, PostgreSQL) with the chatbot integrated via Python and LangChain.
+- **Full Stack Developer Intern, Elevance Skills Technology** (Dec 2024 – Feb 2025): Built trip search and booking features for a trip booking platform using React, Spring Boot and MongoDB, plus REST API integrations and backend workflows.
+
+## 🚀 Featured projects
+
+### 🤖 AI / ML
 
 | Project | What it is | Stack |
 |---|---|---|
-| [Springboot-Blogging-App](https://github.com/nitijain18/Springboot-Blogging-App) | CRUD blogging system where users can create, view and save blog posts | Java, Spring Boot, Thymeleaf, PostgreSQL |
+| **SecureSpace** *(in progress)* | Autonomous AI security analyst that investigates logs, suspicious emails and URLs; does threat analysis, IOC extraction, risk scoring and explainable recommendations | Python, LangChain, LLMs, RAG |
+| **StyleBuddy AI** | Fashion recommendation system with **91% accuracy** across 13 clothing categories, plus an outfit scoring system (color, category, style match) | TensorFlow, Keras, ResNet50 |
+| **ProcureIQ** *(in progress)* | RAG-based assistant that answers vendor, purchase-order and policy queries from business documents | Python, LangChain, FastAPI, Embeddings |
 | [olympic-medal-predictor-lr](https://github.com/nitijain18/olympic-medal-predictor-lr) | Predicts Olympic medal winners using linear regression | Python, scikit-learn, Jupyter |
 | [football-players-clustering](https://github.com/nitijain18/football-players-clustering) | Clusters football players by performance stats using K-Means | Python, scikit-learn, Jupyter |
-| Project 4 *(in progress)* | Built in phases: Java → Spring Boot API → React → Docker → CI/CD → AWS | Java, Spring Boot, React, Docker, AWS |
 
-## GitHub stats
+### 🌐 Full Stack
+
+| Project | What it is | Stack |
+|---|---|---|
+| **BorrowBay** | Peer-to-peer item rental and exchange app with location-based item discovery | React, Spring Boot, PostgreSQL |
+| **Campus Connect** | Inter-college event booking platform with listings, registration and secure authentication | Angular, Spring Boot, PostgreSQL |
+| [Springboot-Blogging-App](https://github.com/nitijain18/Springboot-Blogging-App) | CRUD blogging system to create, view and save blog posts | Java, Spring Boot, Thymeleaf, PostgreSQL |
+
+## 🏆 Achievements & learning
+
+- Shortlisted for **Amazon ML Summer School 2026**
+- NPTEL: Introduction to Reinforcement Learning (ongoing), Introduction to Deep Learning, Applied Linear Algebra & Machine Learning
+- Secretary, **OpenAI Club, TCET**: organized AI workshops and mentored students on AI and LLM concepts
+- Editorial Team Member, **DeCypher Magazine**
+- Solving DSA problems regularly on LeetCode
+
+## 📊 GitHub stats
 
 <div align="center">
 
